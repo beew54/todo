@@ -1,0 +1,15 @@
+Requires fuzzy finder (https://github.com/junegunn/fzf)
+- source d.sh 
+- Run it via 
+- -edit: edits tasks
+- -done: moves to .tododone
+- -change: change date of task
+- -move: moves dates around without fuzzy find
+- -a: addings a relolution to the task
+- -add adds a new task
+- -date explicit date setting
+- tag: use tag
+- tagsave:  saves tag
+- -usetag: use tag saved
+- -sub | --: decrement dates
+- -abs'
